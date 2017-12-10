@@ -1,0 +1,6 @@
+C:\Users\Diman\Desktop\UDPHttpServer\UDPHttpServer\bin\Debug\UDPHttpServer.exe.config
+C:\Users\Diman\Desktop\UDPHttpServer\UDPHttpServer\bin\Debug\UDPHttpServer.exe
+C:\Users\Diman\Desktop\UDPHttpServer\UDPHttpServer\bin\Debug\UDPHttpServer.pdb
+C:\Users\Diman\Desktop\UDPHttpServer\UDPHttpServer\obj\Debug\UDPHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\Diman\Desktop\UDPHttpServer\UDPHttpServer\obj\Debug\UDPHttpServer.exe
+C:\Users\Diman\Desktop\UDPHttpServer\UDPHttpServer\obj\Debug\UDPHttpServer.pdb

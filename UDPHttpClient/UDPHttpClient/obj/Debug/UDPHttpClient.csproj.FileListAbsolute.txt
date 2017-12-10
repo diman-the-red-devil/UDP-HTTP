@@ -1,0 +1,12 @@
+C:\Users\Diman\Desktop\UDPHttpClient\UDPHttpClient\bin\Debug\UDPHttpClient.exe.config
+C:\Users\Diman\Desktop\UDPHttpClient\UDPHttpClient\bin\Debug\UDPHttpClient.exe
+C:\Users\Diman\Desktop\UDPHttpClient\UDPHttpClient\bin\Debug\UDPHttpClient.pdb
+C:\Users\Diman\Desktop\UDPHttpClient\UDPHttpClient\obj\Debug\UDPHttpClient.Form1.resources
+C:\Users\Diman\Desktop\UDPHttpClient\UDPHttpClient\obj\Debug\UDPHttpClient.Properties.Resources.resources
+C:\Users\Diman\Desktop\UDPHttpClient\UDPHttpClient\obj\Debug\UDPHttpClient.csproj.GenerateResource.Cache
+C:\Users\Diman\Desktop\UDPHttpClient\UDPHttpClient\obj\Debug\UDPHttpClient.exe
+C:\Users\Diman\Desktop\UDPHttpClient\UDPHttpClient\obj\Debug\UDPHttpClient.pdb
+C:\Users\Diman\Desktop\UDPHttpClient\UDPHttpClient\obj\Debug\UDPHttpClient.csprojResolveAssemblyReference.cache
+C:\_Magistry\POKS\UDP HTTP\UDPHttpClient\UDPHttpClient\bin\Debug\UDPHttpClient.exe.config
+C:\_Magistry\POKS\UDP HTTP\UDPHttpClient\UDPHttpClient\obj\Debug\UDPHttpClient.exe
+C:\_Magistry\POKS\UDP HTTP\UDPHttpClient\UDPHttpClient\obj\Debug\UDPHttpClient.pdb
